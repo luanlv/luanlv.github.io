@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mytitle</title>
+    <link>/</link>
+    <description>Recent content on mytitle</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>My Name</copyright>
+    <lastBuildDate>Fri, 12 Feb 2016 02:43:55 +0700</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>first</title>
+      <link>/2016/02/12/first/</link>
+      <pubDate>Fri, 12 Feb 2016 02:43:55 +0700</pubDate>
+      
+      <guid>/2016/02/12/first/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>/about/</link>
+      <pubDate>Fri, 12 Feb 2016 02:42:59 +0700</pubDate>
+      
+      <guid>/about/</guid>
+      <description>
+
+&lt;h2 id=&#34;a-headline:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;A headline&lt;/h2&gt;
+
+&lt;p&gt;Some Content&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
