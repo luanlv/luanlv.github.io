@@ -1,6 +1,6 @@
 baseurl = "http://luanlv.github.io/"
 title = "mytitle"
-theme = "ghostwriter"
+theme = "simple-a"
 languageCode = "en-us"
 copyright = "My Name"
 googleAnalytics = "XXX"
@@ -12,6 +12,8 @@ disqusShortname = "XXX"
 
 [Taxonomies]
     tag = "tags"
+    category = "categories"
+    series = "series"
 
 [Params]
     intro = true
@@ -24,7 +26,7 @@ disqusShortname = "XXX"
     stackoverflow = "http://stackoverflow.com/users/XXX/YYY"
 
 [Permalinks]
-    post = "/:year/:month/:day/:filename/"
+    post = "/post/:filename/"
 
 [[menu.main]]
     name = "Blog"
@@ -32,8 +34,8 @@ disqusShortname = "XXX"
     weight = 1
 
 [[menu.main]]
-    name = "Projects"
-    url = "/project/"
+    name = "category"
+    url = "/categories"
     weight = 2
 
 [[menu.main]]
@@ -43,5 +45,5 @@ disqusShortname = "XXX"
 
 [[menu.main]]
     name = "About"
-    url = "/page/about/"
+    url = "/about/"
     weight = 4
