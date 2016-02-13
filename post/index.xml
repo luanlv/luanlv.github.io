@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
       <title>Posts on mytitle </title>
-    <link>http://luanlv.github.io/post/</link>
+    <link>http://blog.luanlv.info/post/</link>
     <language>en-us</language>
     <author>Alexander Ivanov</author>
     <updated>2016-02-11 02:43:55 &#43;0700 ICT</updated>
     
     <item>
       <title>Welcome to my blog!</title>
-      <link>http://luanlv.github.io/post/welcome-to-my-blog/</link>
+      <link>http://blog.luanlv.info/post/welcome-to-my-blog/</link>
       <pubDate>Thu, 11 Feb 2016 02:43:55 ICT</pubDate>
       <author>Alexander Ivanov</author>
-      <guid>http://luanlv.github.io/post/welcome-to-my-blog/</guid>
+      <guid>http://blog.luanlv.info/post/welcome-to-my-blog/</guid>
       <description>
 
 &lt;p&gt;Hello! Welcome to my personal Blog. I hope to share with you here a little about what I have gone through in my life. Your opinions and comments are more than welcome, so feel free to share them with everyone!&lt;/p&gt;
