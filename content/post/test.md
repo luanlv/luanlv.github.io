@@ -4,3 +4,7 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 
 Hello wolrld 2!![Chrysanthemum.jpg]({{site.baseurl}}/content/post/Chrysanthemum.jpg)
 
+![test]({{site.baseurl}}/content/post/Desert.jpg)
+
+123345678asdfsf
+
